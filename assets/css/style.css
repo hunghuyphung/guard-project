@@ -1,0 +1,19 @@
+
+.slogan {
+    padding-left:  12.438%;
+    padding-right:  16.26%;
+}
+
+@media (min-width: 48rem) and (max-width: 64rem) {
+    .slogan {
+        padding-left: 10%;
+        padding-right: 2%;
+    }
+}
+
+@media (max-width: 48rem) {
+    .slogan {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
